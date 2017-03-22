@@ -1,0 +1,1050 @@
+A.I.O. Donna Paula	403004	Goa
+A.R.T.C	797115	Nagaland
+Aberdeen	744204	Andaman & Nicobar Islands
+Abhaynagar	799005	Tripura
+Addanki	523201	Andhra Pradesh
+Adilabad	504001	Andhra Pradesh
+Adoni	518301	Andhra Pradesh
+Adur	691523	Kerala
+Agartala G.P.O	799001	Tripura
+Agra	282001	Uttar Pradesh
+Agra Fort	282003	Uttar Pradesh
+Ahmedabad	380001	Calcutta
+Ahmednagar	414001	Maharashtra
+Aibok	796190	Mizoram
+Aizawal G.P.O	796001	Mizoram
+Ajmer	305001	Rajasthan
+Akbarpur	224122	Uttar Pradesh
+Akola	444001	Maharashtra
+Akulto	798619	Nagaland
+Alathur	678541	Kerala
+Aldona	403508	Goa
+Alibag	402201	Mahrashtra
+Aligarh	202001	Uttar Pradesh
+Alipur	700027	West Bengal
+Allagada	518543	Andhra Pradesh
+Allahabad	211001	Uttar Pradesh
+Allahabad City	211003	Uttar Pradesh
+Allahabad Kacheri	211002	Uttar Pradesh
+Allappuzha	688001	Kerala
+Almora	263601	Uttar Pradesh
+Along	791001	Arunachal Pradesh
+Aluva	683101	Kerala
+Alwar	301001	Rajasthan
+Amadalavalasa	532185	Andhra Pradesh
+Amalapuram	533201	Andhra Pradesh
+Amaravati	444601	Maharashtra
+Amarpur	799101	Tripura
+Amarpur	799101	Tripura
+Ambala Cantt.	133001	Haryana
+Ambala City	133003	Haryana
+Ambalmukal	682302	Lakshadweep
+Ambasa	799289	Tripura
+Ambasamudram	627401	Tamil Nadu
+Ambattur	600053	Tamil Nadu
+Ambikapur	497001	Mashya Pradesh
+Amini	682552	Lakshadweep
+Ampati	794115	Meghalaya
+Ampinagar	799108	Tripura
+Amreli	364601	Calcutta
+Amritsar	143001	Punjab
+Amroha	244221	Utter Pradesh
+Anakpalle	531001	Andhra Pradesh
+Anand	388001	Calcutta
+Anandpur	799157	Tripura
+Anantapur	515001	Andhra Pradesh
+Anantnag	192101	Jammu & Kashmir
+Androth	682551	Lakshadweep
+Angul	759122	Orissa
+Anini	792101	Arunachal Pradesh
+Anna Road	600002	Tamil Nadu
+Arakkonam	631001	Tamil Nadu
+Arambagh	712601	West Bengal
+Arasaradi	625016	Tamil Nadu
+Armoor	503224	Andhra Pradesh
+Arni	632601	Tamil Nadu
+Arrah	802301	Bihar
+Arsikere	573103	Karnataka
+Arundatinagar	799003	Tripura
+Aruppukottai	626101	Tamil Nadu
+Asansol	713301	West Bengal
+Ashikkal	682510	Lakshadweep
+Aska	761110	Orissa
+Assam rifles	793011	Meghalaya
+Athgarh	754029	Orissa
+Athni	591304	Karnataka
+Attili	534134	Andhra Pradesh
+Attungal	695101	Kerala
+Atur	636102	Tamil Nadu
+Auraiya	206122	Uttar Pradesh
+Aurangabad	431001	Maharashtra
+Aurangabad	824101	Bihar
+Avadi Camp	600054	Tamil Nadu
+Avanigadda	521121	Andhra Pradesh
+Azamgarh	276001	Uttar Pradesh
+Bachaibadi	799206	Tripur
+Bada bazar	793002	Meghalaya
+Bada pani	793103	Meghalaya
+Bagalkot	587101	Karnataka
+Baghma	799119	Tripura
+Baghmara	794102	Meghalaya
+Bahadurgarh	125417	Haryana
+Bahraich	271801	Uttar Pradesh
+Bahror	301701	Rajasthan
+Baidyanadh Deoghar	814112	Bihar
+Bailhongal	591102	Karnataka
+Bakultala	744208	Andaman and  Nicobar Islands
+Balaghat	481001	Madhya Pradesh
+Balangir	767001	Orissa
+Balat	793106	Meghalaya
+Baleshwar	756001	Orissa
+Ballia	277001	Uttar Pradesh
+Balrampur	271201	Uttar Pradesh
+Balurghat	733101	West Bengal
+Banda	210001	Uttar Pradesh
+Bangalore City	560002	Karnataka
+Bangalore G.P.O.	560001	Karnataka
+Banka	813102	Bihar
+Bankura	722101	West Bengal
+Bansi	272153	Uttar Pradesh
+Banswara	327001	Rajasthan
+Bapatla	522101	Andhra Pradesh
+Barabanki	225001	Uttar Pradesh
+Barabazar	700007	West Bengal
+Baramulla	193101	Jammu & Kashmir
+Barasat	743201	West Bengal
+Baraut	250611	Uttar Pradesh
+Barega pada	794103	Meghalaya
+Bareilly	243001	Uttar Pradesh
+Bargarh	768028	Orissa
+Baripada	757001	Orissa
+Barmer	344001	Rajasthan
+Barmihat	793101	Meghalaya
+Barpeta	781301	Assam
+Barrackpore	743101	West Bengal
+Barsar	174305	Himachal Pradesh
+Baruipur	743302	West Bengal
+Basavanagudi	560004	Karnataka
+Basirhat	743411	West Bengal
+Basti	272001	Uttar Pradesh
+Bathala	151001	Punjab
+Bathinda	151001	Punjab
+Bayana	321401	Rajasthan
+Beawar	305901	Rajasthan
+Beed	431122	Marharashtra
+Begusarai	851101	Bihar
+Beleghata	700010	West Bengal
+Belgaum	590001	Karnataka
+Belgharia	700056	West Bengal
+Bellary	583101	Karnataka
+Berhampur	760001	Orissa
+Berhampur	742101	West Bengal
+Bettaih	845438	Bihar
+Betul	460001	Madhya Pradesh
+Betul	403603	Goa
+Bhadrachalam	507111	Andhra Pradesh
+Bhadrak	756110	Orissa
+Bhadravathi	577301	Karnataka
+Bhagalpur	812001	Bihar
+Bhandara	441904	Marharashtra
+Bhanjanagar	761126	Orissa
+Bharatpur	321001	Rajasthan
+Bharatpur City	321001	Rajasthan
+Bharuch	392001	Calcutta
+Bhattason	841460	Bihar
+Bhavani	638301	Tamil Nadu
+Bhavnagar	364001	Calcutta
+Bhawani Patana	766001	Orissa
+Bhilai SB	490001	Madhya Pradesh
+Bhilwara	311001	Rajasthan
+Bhimavaram	534201	Andhra Pradesh
+Bhind	477001	Madhya Pradesh
+Bhivani	125021	Haryana
+Bhongir	508116	Andhra Pradesh
+Bhopal BHEL (SB)	462022	Madhya Pradesh
+Bhopal C.I.T. Nagar	462003	Madhya Pradesh
+Bhopal G.P.O	462001	Madhya Pradesh
+Bhubaneswar G.P.O	751001	Orissa
+Bhuj	370001	Calcutta
+Bhusaval	425201	Marharashtra
+Bidar	585401	Karnataka
+Bihar Shariff	803101	Bihar
+Bijapur	586101	Karnataka
+Bijnor	246701	Uttar Pradesh
+Bikaner	334001	Rajasthan
+Bilaspur	495001	Madhya Pradesh
+Bilaspur	174001	Himachal Pradesh
+Bilimora	396321	Calcutta
+Bishanpur	795126	Manipur
+Bobbili	532558	Andhra Pradesh
+Bodinayakanur	625513	Tamil Nadu
+Bokaro Steel City	827001	Bihar
+Bokshanagar	799106	Tripura
+Bolganj bazar	793107	Meghalaya
+Bolomia	799155	Tripura
+Bongmun	796710	Mizoram
+Bordoli	394601	Calcutta
+Borholla	798631	Nagaland
+Borivali	400091	Marharashtra
+Botad	364710	Calcutta
+Buchinghampet	520002	Andhra Pradesh
+Budaun	243601	Uttar Pradesh
+Bulandshahar	203001	Uttar Pradesh
+Buldhana	443001	Maharashtra
+Bundi	323001	Rajasthan
+Burdwan	713101	West Bengal
+Buzar	802101	Bihar
+Calcutta G.P.O	700001	West Bengal
+Campwell Bay	744302	Andaman & Nicobar Islands
+Car Nicobar	744301	Andaman & Nicobar Islands
+Chaibasa	833201	Bihar
+Chaichima	797105	Nagaland
+Chakpirang	795102	Manipur
+Chalakudi	680307	Kerala
+Chalisgaon	424101	Maharashtra
+Chamba	176310	Himachal Pradesh
+Champang	798603	Nagaland
+Champhai	796321	Mizoram
+Chandel	795127	Manipur
+Chandigarh	160017	Punjab
+Chandmari	796007	Mizoram
+Chandnichowk	753002	Orissa
+Chandragiri	517101	Andhra Pradesh
+Chandrapur	442401	Maharashtra
+Chandrapur	799251	Tripura
+Changlang	792120	Arunachal Pradesh
+Channapatna	571501	Karnataka
+Chaokham	792104	Arunachal Pradesh
+Chapra	841301	Bihar
+Chareelum	799107	Tripura
+Chatrapur	761020	Orissa
+Chembur	400071	Maharashtra
+Chengalpattu	603001	Tamil Nadu
+Chenganacherry	686101	Kerala
+Chengannur	689121	Kerala
+Chera bazar	793111	Meghalaya
+Cherrapunji	793108	Meghalaya
+Cherthala	688524	Kerala
+Chhaindwara	480001	Madhya Pradesh
+Chhatarpur City	471001	Madhya Pradesh
+Chickballapur	562101	Karnataka
+Chickmagalur	577101	Karnataka
+Chidambaram	608001	Tamil Nadu
+Chijami	797102	Nagaland
+Chikhli	403711	Goa
+Chikodi	591201	Karnataka
+Chilakaluripeta	522616	Andhra Pradesh
+Chinchbunder	400009	Maharashtra
+Chingkompong	795158	Manipur
+Chinsurah	712101	West Bengal
+Chiplun	415605	Maharashtra
+Chirala	523115	Andhra Pradesh
+Chirawa	333026	Rajasthan
+Chitradurga	577501	Karnataka
+Chittoor	517001	Andhra Pradesh
+Chittorgarh	312001	Rajasthan
+Chochuba	797104	Nagaland
+Chodavaram	531036	Andhra Pradesh
+Chongtai	796770	Mizoram
+Chuchaimalang	798614	Nagaland
+Chumukidima	797103	Nagaland
+Churachandpur	795128	Manipur
+Churu	331001	Rajasthan
+Cobichettipalayam	638401	Tamil Nadu
+Coimbatore	641001	Tamil Nadu
+Contai	721401	West Bengal
+Cooch Behar	736101	West Bengal
+Coonoor	643101	Tamil Nadu
+Cossipore	700002	West Bengal
+Cuddalore	607001	Tamil Nadu
+Cuddapah	516001	Andhra Pradesh
+Cuttack	753001	Orissa
+Dabhoi	391110	Calcutta
+Dabki	793109	Meghalaya
+Dadar	400014	Maharashtra
+Dahod	389151	Calcutta
+Daltonganj	822101	Bihar
+Damoh	470661	Madhya Pradesh
+Daporizo	791122	Arunachal Pradesh
+Darbhanga	846004	Bihar
+Dargamitta	524003	Andhra Pradesh
+Darjeeling	734101	West Bengal
+Darlawn	796111	Mizoram
+Dasuya	144205	Punjab
+Datia	475661	Madhya Pradesh
+Dausa	303301	Rajasthan
+Davangere	577001	Karnataka
+Deeg	321203	Rajasthan
+Dehra Gopipur	177101	Himachal Pradesh
+Dehradun	248001	Uttar Pradesh
+Dehradun Cantt.	248003	Uttar Pradesh
+Demgiri	796751	Mizoram
+Deomali	786629	Arunachal Pradesh
+Deoria	274001	Uttar Pradesh
+Devakottai	630302	Tamil Nadu
+Dewas	455001	Madhya Pradesh
+Dhamloan	795143	Manipur
+Dhampur	403504	Goa
+Dhampur	246761	Uttar Pradesh
+Dhanbad	826001	Bihar
+Dhar	454001	Madhya Pradesh
+Dharamnagar G.P.O	799250	Tripura
+Dharapuram	638656	Tamil Nadu
+Dharmapuri	636701	Tamil Nadu
+Dharmavaram	516671	Andhra Pradesh
+Dharwad	580001	Karnataka
+Dhenkanal	759001	Orissa
+Dholka	387810	Calcutta
+Dholpur	328001	Rajasthan
+Dhramsala	176215	Himachal Pradesh
+Dhubri	783301	Assam
+Dhule	424001	Maharashtra
+Diamond Harbour	743331	West Bengal
+Dibrugarh	786001	Assam
+Dicholi	403705	Goa
+Didwana	341301	Rajasthan
+Diglipur	744202	Andaman & Nicobar Islands
+Dikchu	737107	Sikkim
+Dimapur	797112	Nagaland
+Dindigul	624001	Tamil Nadu
+Dirang	790101	Arunachal Pradesh
+Disa	385535	Gujarat
+Dobasipada	794005	Meghalaya
+Doimukh	791112	Arunachal Pradesh
+Drishnapur	741101	West Bengal
+Dumka	814101	Bihar
+Dungarpur	314001	Rajasthan
+Durg	491001	Madhya Pradesh
+Durgapur	713201	West Bengal
+Eluru	534001	Andhra Pradesh
+Ernakulam	682011	Kerala
+Erode	638001	Tamil Nadu
+Etah	207001	Uttar Pradesh
+Etawah	206001	Uttar Pradesh
+Faizabad	224001	Uttar Pradesh
+Faridabad	121001	Haryana
+Faridkot	151203	Punjab
+Fatehgarh	209601	Uttar Pradesh
+Fatehpur	332310	Rajasthan
+Fatehpur	212601	Uttar Pradesh
+Ferozepur	152001	Punjab
+Firozabad	283203	Uttar Pradesh
+Gadag	582101	Karnataka
+Gadwal	509125	Andhra Pradesh
+Gandhi Nagar	382010	Gujarat
+Gandhinagar (Jaipur)	302015	Rajasthan
+Gandhinagar (Jammu)	180004	Jammu & Kashmir
+Gangapur R.S	322201	Rajasthan
+Gangtok	737101	West Bengal
+Gangtok G.P.O	737101	Sikkim
+Garobandha	794105	Meghalaya
+Gaya	823001	Bihar
+Ghatkoper East	400086	Maharashtra
+Ghaziabad	201001	Uttar Pradesh
+Ghazipur	233001	Uttar Pradesh
+Girgaon	400004	Maharashtra
+Giribam	788105	Manipur
+Giridih	815301	Bihar
+Godhra	389001	Gujarat
+Gohana	124301	Haryana
+Gokak	591307	Karnataka
+Gonda	271001	Uttar Pradesh
+Gondal	360311	Gujarat
+Gondia	441601	Maharashtra
+Gopalganj	841428	Bihar
+Gopeshwar	246401	Uttar Pradesh
+Gorakhpur	273001	Uttar Pradesh
+Gudivada	521301	Andhra Pradesh
+Gudiyattam	632602	Tamil Nadu
+Gudur	524101	Andhra Pradesh
+Gular thal	788115	Manipur
+Gulbarga	585101	Karnataka
+Gumla	835207	Bihar
+Guna	473001	Madhya Pradesh
+Guntakal	515801	Andhra Pradesh
+Guntur	522001	Andhra Pradesh
+Gurdaspur	143521	Punjab
+Gurgaon	122001	Haryana
+Guwahati	781001	Assam
+Guwahati University	781014	Assam
+Gwalior (Lashkar)	474001	Madhya Pradesh
+HAL II Stage	560008	Karnataka
+Hajipur	844101	Bihar
+Haldwani	263139	Uttar Pradesh
+Hamirpur	177001	Himachal Pradesh
+Hamirpur	210301	Uttar Pradesh
+Hanamkonda	506001	Andhra Pradesh
+Hanumangarh Junction	335512	Rajasthan
+Happy valley	793007	Meghalaya
+Hapur	245101	Uttar Pradesh
+Harapanhalli	583131	Karnataka
+Hardoi	241001	Uttar Pradesh
+Hassan	573201	Karnataka
+Haveri	581110	Karnataka
+Hayuliyang	792102	Arunachal Pradesh
+Hazaribagh	825301	Bihar
+Hemlauk	744211	Andaman & Nicobar Islands
+Hill top	791103	Arunachal Pradesh
+Himat Nagar	383001	Gujarat
+Hindaun	322230	Rajasthan
+Hindupur	515201	Andhra Pradesh
+Hinoo	834002	Bihar
+Hissar	125001	Haryana
+Hoshangabad	461001	Madhya Pradesh
+Hoshiarpur	146001	Punjab
+Hospet	583201	Karnataka
+Howrah	711101	West Bengal
+Hubli	580020	Karnataka
+Hukeri	591309	Karnataka
+Huzurabad	505468	Andhra Pradesh
+Hyderabad G.P.O	500001	Andhra Pradesh
+Hyderabad Jubilee	500002	Andhra Pradesh
+Ichalkaranji	416115	Maharashtra
+Imphal G.P.O	795001	Manipur
+Impur	798619	Nagaland
+Indi	586209	Karnataka
+Indore	452001	Madhya Pradesh
+Ingkiyong	791002	Arunachal Pradesh
+Irinjalakuda	680121	Kerala
+Itanagar G.P.O	791111	Arunachal Pradesh
+Kadamtala	744209	Andaman & Nicobar Islands
+Kadamtala	799261	Tripura
+Kadnat	682556	Lakshadweep
+Kaikalur	521333	Andhra Pradesh
+Kailashahar	799277	Tripura
+Kakching bazar	795103	Manipur
+Kakinada	533001	Andhra Pradesh
+Kaknad	682030	Lakshadweep
+Kala pahad	795122	Manipur
+Kalbadevi	400002	Maharashtra
+Kalkalang	790002	Arunachal Pradesh
+Kallakurichi	606202	Tamil Nadu
+Kalol	382721	Gujarat
+Kalpeni	682557	Lakshadweep
+Kalpett	673121	Kerala
+Kalyan City	421301	Maharashtra
+Kalyanpur	799203	Tripura
+Kamalghat	799210	Tripura
+Kamalpur	799285	Tripura
+Kamareddy	503111	Andhra Pradesh
+Kamptee	441001	Maharashtra
+Kanchanbadi	799288	Tripura
+Kanchanpur	799270	Tripura
+Kanchipuram	631501	Tamil Nadu
+Kandi	742137	West Bengal
+Kandoli	403515	Goa
+Kandukur	523105	Andhra Pradesh
+Kangra	176001	Himachal Pradesh
+Kanhangad	673315	Kerala
+Kanigiri	523230	Andhra Pradesh
+Kanjeri	676121	Kerala
+Kanjirapally	686507	Kerala
+Kanker	494334	Madhya Pradesh
+Kankroli	313324	Rajasthan
+Kannur	670001	Kerala
+Kanpur	208001	Uttar Pradesh
+Kanpur Cantt.	208004	Uttar Pradesh
+Kantolim	403710	Goa
+Kapanga	744309	Andaman & Nicobar Islands
+Kapurthala	144601	Punjab
+Karad	415110	Maharashtra
+Karaikudi	630001	Tamil Nadu
+Karimganj	788710	Assam
+Karimnagar	505001	Andhra Pradesh
+Karkala	574104	Karnataka
+Karnal	132001	Haryana
+Karong	795106	Manipur
+Karunagapally	690518	Kerala
+Karur	639001	Tamil Nadu
+Karwar	581301	Karnataka
+Kasaragod	671121	Kerala
+Kasavali	403712	Goa
+Kathali	799132	Tripura
+Kathihar	854105	Bihar
+Kathua	184101	Jammu & Kashmir
+Katni	483501	Madhya Pradesh
+Kattappana	685508	Kerala
+Katwa	713130	West Bengal
+Kavali	524201	Andhra Pradesh
+Kavlem	403410	Goa
+Kayamkulam	690502	Kerala
+Kenndrapara	754211	Orissa
+Keonjargarh	758001	Orissa
+Khairatabad	500004	Andhra Pradesh
+Khambhalia	361305	Gujarat
+Khamgaon	444303	Maharashtra
+Khammam	507001	Andhra Pradesh
+Khandwa	450001	Madhya Pradesh
+Khanna	141401	Punjab
+Khargone	451001	Madhya Pradesh
+Khayerpur	799008	Tripura
+Kheda	387411	Gujarat
+Kheri	262701	Uttar Pradesh
+Khilerihat	793200	Meghalaya
+Khojovai	796310	Mizoram
+Khousa	786630	Arunachal Pradesh
+Khowai	799201	Tripura
+Khurda	752055	Orissa
+Khurja	203131	Uttar Pradesh
+Kimin	791121	Arunachal Pradesh
+Kiphir	798611	Nagaland
+Kochi	682001	Kerala
+Kohima G.P.O	797001	Nagaland
+Kolar	563101	Karnataka
+Kolhapur	416003	Maharashtra
+Kolhapur City	416012	Maharashtra
+Kollam	691001	Kerala
+Kollegal	571440	Karnataka
+Kolosib	796081	Mizoram
+Kongkopi	795129	Manipur
+Koppa	577126	Karnataka
+Koppal	583231	Karnataka
+Koraput	764020	Orissa
+Korba	495667	Madhya Pradesh
+Kota	324001	Rajasthan
+Kothapeta	533233	Andhra Pradesh
+Kothgudem Collieries	507101	Andhra Pradesh
+Kottarakara	691506	Kerala
+Kottayam	686001	Kerala
+Kovilpatti	628501	Tamil Nadu
+Kovvur	534350	Andhra Pradesh
+Kowpoi	796070	Mizoram
+Kozhikode	673001	Kerala
+Kozhikode Civil Station	673020	Kerala
+Krishnagiri	635001	Tamil Nadu
+Kulashekar	575005	Karnataka
+Kuli bazar	799204	Tripura
+Kulittalai	639104	Tamil Nadu
+Kullu	175101	Himachal Pradesh
+Kulokon	796005	Mizoram
+Kumar ghat	799264	Tripura
+Kumbakonam	612001	Tamil Nadu
+Kumta	581343	Karnataka
+Kundapura	576201	Karnataka
+Kunjvan	799006	Tripura
+Kunnamkulam	680503	Kerala
+Kunraghat	273008	Uttar Pradesh
+Kurukshetra	132118	Haryana
+Kuvep	403705	Goa
+Labaan	793004	Meghalaya
+Labarchandmari	794002	Meghalaya
+Laheriasarai	846001	Bihar
+Lakhibera	796471	Mizoram
+Lalganj	229206	Uttar Pradesh
+Lalitpur	284403	Uttar Pradesh
+Lamlongbazar	795010	Manipur
+Lamphelpat	795004	Manipur
+Lamsang	795140	Manipur
+Landsdowne	246155	Uttar Pradesh
+Langding	786631	Arunachal Pradesh
+Latur	413512	Maharashtra
+Leh	194101	Jammu & Kashmir
+Light core peak	793010	Meghalaya
+Lightmukhra	793003	Meghalaya
+Likabili	791125	Arunachal Pradesh
+Lilong	795130	Manipur
+Loktak Project	795124	Manipur
+Loleim	403728	Goa
+Longlai	796891	Mizoram
+Lucknow Chowk	226003	Uttar Pradesh
+Lucknow GPO	226001	Uttar Pradesh
+Ludhiana	141001	Punjab
+Lungdar	796370	Mizoram
+Lunglei	796701	Mizoram
+Lungsein	796730	Mizoram
+Machilipatnam	521001	Andhra Pradesh
+Madanganj	305801	Rajasthan
+Madasa	383315	Gujarat
+Madhobewala	248110	Uttar Pradesh
+Madhubani	847211	Bihar
+Madikeri	571201	Karnataka
+Madras GPO	600001	Tamil Nadu
+Madurai	625001	Tamil Nadu
+Mahabubnagar	509001	Andhra Pradesh
+Mahbubabad	506101	Andhra Pradesh
+Mahesana	384001	Gujarat
+Mahim	400016	Maharashtra
+Maidjiphema	797106	Nagaland
+Mailuri	797114	Nagaland
+Mainpuri	205001	Uttar Pradesh
+Majorda	403723	Goa
+Makrana	341505	Rajasthan
+Makshmara	799265	Tripura
+Malappuram	676505	Kerala
+Malda	732101	West Bengal
+Malegaon town	423203	Maharashtra
+Mall	735221	West Bengal
+Malvan	416606	Maharashtra
+Mamit	796441	Mizoram
+Manamadurai	630606	Tamil Nadu
+Mancherial	504208	Andhra Pradesh
+Mandapeta	533308	Andhra Pradesh
+Mandgaon G.P.O	403601	Goa
+Mandi	175001	Himachal Pradesh
+Mandi pathar	794112	Meghalaya
+Mandla	481661	Madhya Pradesh
+Mandsaur	458001	Madhya Pradesh
+Mandvi	400003	Maharashtra
+Mandvi	370465	Gujarat
+Mandya	571401	Karnataka
+Mangalagiri	522203	Andhra Pradesh
+Mangaldoi	784125	Assam
+Mangalore	575001	Karnataka
+Mangan	737116	Sikkim
+Manipal	576119	Karnataka
+Manipur vishwavidyalay	795003	Manipur
+Mannargudi	614001	Tamil Nadu
+Mantri Pokhri	795002	Manipur
+Manubazar	799143	Tripura
+Manughat	799275	Tripura
+Mao	795150	Manipur
+Margo	403601	Maharashtra
+Marhowrah	841418	Bihar
+Markapur	523316	Andhra Pradesh
+Marwar Jn.	306001	Rajasthan
+Masanapalle	517325	Andhra Pradesh
+Mathura	281001	Uttar Pradesh
+Mati	799159	Tripura
+Mau Nath Bhanjan	275101	Uttar Pradesh
+Mavelikara	690101	Kerala
+Mavli Jn.	313203	Rajasthan
+Mawphlang	793121	Meghalaya
+Mayabandar	744204	Andaman & Nicobar Islands
+Mayang Imphal	795132	Manipur
+Mayiladuthurai	609001	Tamil Nadu
+Mebo	791104	Arunachal Pradesh
+Mechuka	792051	Arunachal Pradesh
+Medak	502110	Andhra Pradesh
+Meeo	792122	Arunachal Pradesh
+Meerut	250001	Uttar Pradesh
+Meerut City	250002	Uttar Pradesh
+Melaghar	799115	Tripura
+Melakaveri	612002	Tamil Nadu
+Mepusa	403507	Goa
+Mettupalayam	641301	Tamil Nadu
+Midnapore	721101	West Bengal
+Minicoy	682529	Lakshadweep
+Miraj	416410	Maharashtra
+Mirzapur	231001	Uttar Pradesh
+Moga	142001	Punjab
+Mohanpur	799211	Tripura
+Mohripur	799142	Tripura
+Moirang	795133	Manipur
+Mokokchung	798601	Nagaland
+Mon	798621	Nagaland
+Monghyr	811201	Bihar
+Monkolemba	798604	Nagaland
+Moradabad	244001	Uttar Pradesh
+Morai	795131	Manipur
+Morar	474006	Madhya Pradesh
+Morbi	363641	Gujarat
+Morena	476001	Madhya Pradesh
+Mosunram	793113	Meghalaya
+Motihari	845401	Bihar
+Mowkarvat	793114	Meghalaya
+Mowpat	793012	Meghalaya
+Mriyalguda	508207	Andhra Pradesh
+Muddebihal	586212	Karnataka
+Mulund	400080	Maharashtra
+Mumbai G.P.O.	400001	Maharashtra
+Mumbai central	400008	Maharashtra
+Murgaon	403803	Goa
+Murtizapur	444107	Maharashtra
+Muvattupuzha	686661	Kerala
+Muzaffarnagar	251001	Uttar Pradesh
+Muzaffarpur	842001	Bihar
+Mylapore	600004	Tamil Nadu
+Mysore	570001	Karnataka
+Nabadwip	741302	West Bengal
+Nadiad	387001	Gujarat
+Nagaon (Nowgong)	782001	Assam
+Nagaur	341001	Rajasthan
+Nagercoil	629001	Tamil Nadu
+Naginimira	798622	Nagaland
+Nagpur City	440002	Maharashtra
+Nagpur G.P.O.	440001	Maharashtra
+Nahan	173001	Himachal Pradesh
+Naharlagon	791110	Arunachal Pradesh
+Nainital	263001	Uttar Pradesh
+Nalbari	781335	Assam
+Nalgonda	508001	Andhra Pradesh
+Namakkal	637001	Tamil Nadu
+Nambol	795134	Manipur
+Namchi	737126	Sikkim
+Nampong	792123	Arunachal Pradesh
+Namsai	792103	Arunachal Pradesh
+Nanded	431601	Maharashtra
+Nandyal	518501	Andhra Pradesh
+Nangalbibra	794107	Meghalaya
+Nanglayer	793009	Meghalaya
+Nangthumai	793014	Meghalaya
+Nanjangud	571301	Karnataka
+Narasipatnam	531116	Andhra Pradesh
+Nargarpattinam	611001	Tamil Nadu
+Nargund	582207	Karnataka
+Narnaul	123001	Haryana
+Narsinghpur	487001	Madhya Pradesh
+Nashik	422001	Maharashtra
+Nashik road	422001	Maharashtra
+Nasirabad	305601	Rajasthan
+Navrangpura	380009	Gujarat
+Navsari	396445	Gujarat
+Nawabganj	208002	Uttar Pradesh
+Nawada	805110	Bihar
+Naya bangla	793105	Meghalaya
+Nayagarh	752069	Orissa
+Nayudupeta	524126	Andhra Pradesh
+Neembathana Town	332713	Rajasthan
+Neemuch	458441	Madhya Pradesh
+Nellore	524001	Andhra Pradesh
+Nevare	403104	Goa
+New Grain Mandi (Kota)	324007	Rajasthan
+Neyyattinkara	695121	Kerala
+Nilakottai	624208	Tamil Nadu
+Nirjuli	791109	Arunachal Pradesh
+Nizamabad	503001	Andhra Pradesh
+Nongpoh	793102	Meghalaya
+Nongstoin	793119	Meghalaya
+North Lakhimpur	787001	Assam
+Nungba	795147	Manipur
+Nuvem	403604	Goa
+Nuzuid	521201	Andhra Pradesh
+Olavakkot	678002	Kerala
+Ongole	523001	Andhra Pradesh
+Orai	285001	Uttar Pradesh
+Osmanabad	413501	Maharashtra
+Ottapalm	679101	Kerala
+Padrauna	274304	Uttar Pradesh
+Pagaiyangdong	795114	Manipur
+Paicharthal	799263	Tripura
+Paitur Bazar	799279	Tripura
+Palai	686575	Kerala
+Palakkad	678001	Kerala
+Palakol	534260	Andhra Pradesh
+Palampur	176061	Himachal Pradesh
+Palani	624601	Tamil Nadu
+Palanpur	385001	Gujarat
+Palayamkottai	627002	Tamil Nadu
+Palel	795135	Manipur
+Palghar	401404	Maharashtra
+Pali	306401	Rajasthan
+Palmaner	517408	Andhra Pradesh
+Panagi	403001	Maharashtra
+Panaji G.P.O	403711	Goa
+Pandharpur	413304	Maharashtra
+Pani Chowki Bazar	799277	Tripura
+Pani Sagar	799260	Tripura
+Panipat	132103	Haryana
+Panna	488001	Madhya Pradesh
+Panvel	410206	Maharashtra
+Papanasam	614205	Tamil Nadu
+Paramakudi	623707	Tamil Nadu
+Paratwada	444805	Maharashtra
+Parbhani	431401	Maharashtra
+Park Town	600003	Tamil Nadu
+Parkal	506164	Andhra Pradesh
+Parlakhemudi	761200	Orissa
+Parleshwar	400057	Maharashtra
+Parvathipuram	532501	Andhra Pradesh
+Pasighat	791102	Arunachal Pradesh
+Patan	384265	Gujarat
+Pathanamthitta	689645	Kerala
+Patiala	147001	Punjab
+Patna G.P.O	800001	Bihar
+Pattukottai	614601	Tamil Nadu
+Pauri	246001	Uttar Pradesh
+Peddapalli	505172	Andhra Pradesh
+Penursala	793110	Meghalaya
+Peren	797101	Nagaland
+Periyakulam	625601	Tamil Nadu
+Perumbavoor	683542	Kerala
+Phagwara	144401	Punjab
+Phalaing	796431	Mizoram
+Phatikarai	799290	Tripura
+Phatikchara	799214	Tripura
+Phenk	797108	Nagaland
+Phulbani	762001	Orissa
+Phulbari	794104	Meghalaya
+Phutmouri	793008	Meghalaya
+Pilibhit	262001	Uttar Pradesh
+Pithoragarh	262501	Uttar Pradesh
+Pollachi	642001	Tamil Nadu
+Ponani	679577	Kerala
+Pondicherry	605001	Tamil Nadu
+Porbandar	360575	Gujarat
+Port Blair	744101	Andaman & Nicobar Islands
+Pratapgarh	230001	Uttar Pradesh
+Proddatur	516360	Andhra Pradesh
+Pudukottai	622001	Tamil Nadu
+Pulivendla	516115	Andhra Pradesh
+Punalur	691305	Kerala
+Pune	411001	Maharashtra
+Pune City	411002	Maharashtra
+Pupterow	797107	Nagaland
+Puri	752001	Orissa
+Purnea	854301	Bihar
+Purulai	744101	West Bengal
+Puttur	574201	Karnataka
+Quilandy	673305	Kerala
+Rabindranath Tagore Nagar	560032	Karnataka
+Radhanagar	799153	Tripura
+Rae Bareli	229001	Uttar Pradesh
+Raghunathganj	742225	West Bengal
+Raibag	591317	Karnataka
+Raichur	584101	Karnataka
+Raigarh	496001	Madhya Pradesh
+Raipur	492001	Madhya Pradesh
+Rairangpur	757043	Orissa
+Raisen	464551	Madhya Pradesh
+Rajaji Nagar	560010	Karnataka
+Rajampet	516115	Andhra Pradesh
+Rajamundry	533101	Andhra Pradesh
+Rajapalayam	626117	Tamil Nadu
+Rajgarh	465661	Madhya Pradesh
+Rajkot	360001	Gujarat
+Rajnagar	799158	Tripura
+Rajnandgaon	491441	Madhya Pradesh
+Rajouri	185131	Jammu & Kashmir
+Rajpura	140401	Punjab
+Ramachandrapuram	533255	Andhra Pradesh
+Ramanathapuram	623501	Tamil Nadu
+Ramdurg	591123	Karnataka
+Ramgarh Cantt.	829112	Bihar
+Ramkrishna Mission	791113	Arunachal Pradesh
+Ramlun	796012	Mizoram
+Ramnagar	799002	Tripura
+Rampur	244901	Uttar Pradesh
+Rampur Bushahr	172001	Himachal Pradesh
+Rampurhat	731224	West Bengal
+Ranaghat	741201	West Bengal
+Ranchi	834001	Bihar
+Rangpo	737126	Sikkim
+Raniganj	713347	West Bengal
+Ranikhet	263645	Uttar Pradesh
+Ranipet	632401	Tamil Nadu
+Rannebennur	581115	Karnataka
+Rasra	221712	Uttar Pradesh
+Ratangarh	331022	Rajasthan
+Rathinasabapathipuram	641002	Tamil Nadu
+Ratlam	457001	Madhya Pradesh
+Ratnagiri	415612	Maharashtra
+Rayagada	765001	Orissa
+Rayak	796501	Mizoram
+Razole	533342	Andhra Pradesh
+Recong Peo	172107	Himachal Pradesh
+Repalle	522265	Andhra Pradesh
+Resubelpada	794108	Meghalaya
+Revdi Bazaar	380002	Gujarat
+Rewa	486001	Madhya Pradesh
+Rohtak	124001	Haryana
+Roing	792110	Arunachal Pradesh
+Rongjing	794110	Meghalaya
+Rongra	794114	Meghalaya
+Roorkee	247667	Uttar Pradesh
+Rourkela	769001	Orissa
+Rupnagar (Ropar)	140001	Punjab
+Sagar (Shinoga)	577401	Karnataka
+Sagar Cantt.	470001	Madhya Pradesh
+Saharnpur	247001	Uttar Pradesh
+Saharsa	852201	Bihar
+Saiha	796901	Mizoram
+Saijussa	790103	Arunachal Pradesh
+Saikot	795117	Manipur
+Sairang	796410	Mizoram
+Saitul	796261	Mizoram
+Salem	636001	Tamil Nadu
+Salkia	711106	West Bengal
+Samalkot	533440	Andhra Pradesh
+Samastipur	848101	Bihar
+Sambalpur	768001	Orissa
+Sanbhar Lake	303604	Rajasthan
+Sandila	241204	Uttar Pradesh
+Sangareddy	502001	Andhra Pradesh
+Sangli	416416	Maharashtra
+Sango	796810	Mizoram
+Sangrur	148001	Punjab
+Sankarankoil	627756	Tamil Nadu
+Santa	485001	Madhya Pradesh
+Santacruz	403005	Goa
+Saraswathipuram	570009	Karnataka
+Sasaram	821115	Bihar
+Satara	415001	Maharashtra
+Sattenapalle	522403	Andhra Pradesh
+Sawaimadhopur	322001	Rajasthan
+Sawantwadi	416510	Maharashtra
+Secunderabad	500003	Andhra Pradesh
+Sehore	466001	Madhya Pradesh
+Sekmai	795136	Manipur
+Senapati	795106	Manipur
+Senpura	792111	Arunachal Pradesh
+Seoni	480661	Madhya Pradesh
+Seppa	790102	Arunachal Pradesh
+Serampore	712201	West Bengal
+Serchhip	796181	Mizoram
+Shabroom	799145	Tripura
+Shahabad	585228	Karnataka
+Shahdol	484001	Madhya Pradesh
+Shahjahanpur	242001	Uttar Pradesh
+Shahpura	303103	Rajasthan
+Shajapur	465001	Madhya Pradesh
+Shalima	799278	Tripura
+Shamli	247776	Uttar Pradesh
+Shastrinagar (Jaipur)	302016	Rajasthan
+Shastrinagar (Jodhpur)	342003	Rajasthan
+Shatchand	799213	Tripura
+Shillong G.P.O	793001	Meghalaya
+Shimla	171001	Himachal Pradesh
+Shimoga	577201	Karnataka
+Shiroda	403103	Goa
+Shivajinagar Pune	411005	Maharashtra
+Shivali	403517	Goa
+Shivpuri	473551	Madhya Pradesh
+Shorapur	585224	Karnataka
+Shrikakulam	532001	Andhra Pradesh
+Shrikalahasti	517644	Andhra Pradesh
+Shrirampur	413709	Maharashtra
+Sibsagar	785640	Assam
+Siddipet	502103	Andhra Pradesh
+Sidhi	486661	Madhya Pradesh
+Silchar	788001	Assam
+Simra	799213	Tripura
+Singghat	795139	Manipur
+Singjamai bazar	795137	Manipur
+Sirkali	609110	Tamil Nadu
+Sirohi	307001	Rajasthan
+Sirsa	125055	Haryana
+Sirsi	581401	Karnataka
+Sitamarhi	843301	Bihar
+Sitapur	261001	Uttar Pradesh
+Sivakasi	626123	Tamil Nadu
+Siwan	841226	Bihar
+Solan	173212	Himachal Pradesh
+Solapur	413001	Maharashtra
+Somdal	795144	Manipur
+Sonepat	131001	Haryana
+Sri Rangam	620006	Tamil Nadu
+Sriganganagar	335001	Rajasthan
+Srimadhopur	332715	Rajasthan
+Srinagar GPO	190001	Jammu & Kashmir
+Srirangapatna	571438	Karnataka
+Srivaikuntam	628601	Tamil Nadu
+St.Thomas Mount	600016	Tamil Nadu
+Station Jadcheral	509301	Andhra Pradesh
+Station Kachiguda	500027	Andhra Pradesh
+Sugumu	795101	Manipur
+Sullia	574239	Karnataka
+Sultanpur	228001	Uttar Pradesh
+Sumer	793104	Meghalaya
+Sunamura	799131	Tripura
+Sundargargh	770001	Orissa
+Sundernagar Township	174402	Himachal Pradesh
+Suramangalam	636005	Tamil Nadu
+Surat	395003	Gujarat
+Surendra Nagar	363001	Gujarat
+Suryapet	508213	Andhra Pradesh
+Tadepalligudam	534101	Andhra Pradesh
+Tadpatri	515411	Andhra Pradesh
+Taliparamba	670141	Kerala
+Tallakulam	625002	Tamil Nadu
+Tambaram	600045	Tamil Nadu
+Tandur	501141	Andhra Pradesh
+Tanuku	534211	Andhra Pradesh
+Taran Taran	143401	Punjab
+Tehri	249001	Uttar Pradesh
+Tekkali	532201	Andhra Pradesh
+Telimura	799205	Tripura
+Tenali	522201	Andhra Pradesh
+Tenkasi	627811	Tamil Nadu
+Tezpur	784001	Assam
+Thalassery	670101	Kerala
+Thane	400601	Maharashtra
+Thanjavur	613001	Tamil Nadu
+Thingdol	796075	Mizoram
+Thinghai	796581	Mizoram
+Thingshul Theleha	796161	Mizoram
+Thiruvallur	602001	Tamil Nadu
+Thiruvananthapuram G.P.O	695001	Kerala
+Thodupuzha	685584	Kerala
+Thrissur	680001	Kerala
+Thuckalay	629175	Tamil Nadu
+Thuraiyur	621010	Tamil Nadu
+Thuraiyur	621010	Tamil Nadu
+Thyagaraynagar	600017	Tamil Nadu
+Thycaud	695014	Kerala
+Tikamgarh	472001	Madhya Pradesh
+Tilakwadi East	590006	Karnataka
+Tindivanam	604001	Tamil Nadu
+Tinsukia	786125	Assam
+Tiptur	572201	Karnataka
+Tiruchendur	628215	Tamil Nadu
+Tiruchengudo	637211	Tamil Nadu
+Tiruchirappalli	620001	Tamil Nadu
+Tirukkoyilur	605757	Tamil Nadu
+Tirunelveli	627001	Tamil Nadu
+Tirupati	517501	Andhra Pradesh
+Tiruppattur	635601	Tamil Nadu
+Tirupur	641601	Tamil Nadu
+Tirur	676101	Kerala
+Tiruthuraipundi	614713	Tamil Nadu
+Tiruvalla	689101	Kerala
+Tiruvannamalai	606601	Tamil Nadu
+Tiruvarur	610001	Tamil Nadu
+Tisk	403406	Goa
+Tong	734224	Sikkim
+Tonk	304001	Rajasthan
+Trimulgherry	500015	Andhra Pradesh
+Tripuradam Chera	799256	Tripura
+Tuipang	796911	Mizoram
+Tumkur	572101	Karnataka
+Turiyur	628001	Tamil Nadu
+Udagamandalam	643001	Tamil Nadu
+Udaipur	313001	Rajasthan
+Udamalpet	642126	Tamil Nadu
+Udhampur	182101	Jammu & Kashmir
+Udupi	576101	Karnataka
+Ujjain	456001	Madhya Pradesh
+Ukhrul	795142	Manipur
+Umsao	793123	Meghalaya
+Una	174303	Himachal Pradesh
+Union Christian College	793122	Meghalaya
+Unjha	384170	Gujarat
+Unnao	209801	Uttar Pradesh
+Upling	793006	Meghalaya
+Upper Shillong	793005	Meghalaya
+Vadakancherry	680582	Kerala
+Vadakara	673101	Kerala
+Vadodara	390001	Gujarat
+Vaikom	686141	Kerala
+Vairangte	796101	Mizoram
+Vaivakown	796009	Mizoram
+Vajapur	382870	Gujarat
+Valsad	396001	Gujarat
+Varanasi	221002	Uttar Pradesh
+Vasco Da Gama	403802	Goa
+Vela	412212	Goa
+Vellore	632001	Tamil Nadu
+Veraval	362265	Gujarat
+Vidisha	464001	Madhya Pradesh
+Vijay nagar	792055	Arunachal Pradesh
+Vijaywada	520001	Andhra Pradesh
+Vikarabad	501101	Andhra Pradesh
+Villupuram	605602	Tamil Nadu
+Vimangad	799015	Tripura
+Virudhunagar	626001	Tamil Nadu
+Visakhapatnam	530001	Andhra Pradesh
+Visnagar	384315	Gujarat
+Vizianagaram	531202	Andhra Pradesh
+Waltair R.S.	530004	Andhra Pradesh
+Wanaparthy	509103	Andhra Pradesh
+Warangal	506002	Andhra Pradesh
+Wardha	442001	Maharashtra
+Williamnagar	794111	Meghalaya
+Wokha	797111	Nagaland
+Yadagiri	585201	Karnataka
+Yeotamal	445001	Maharashtra
+Yeshwant Road (Indore)	452004	Madhya Pradesh
+Yonghong	798617	Nagaland
+Zahirabad	502220	Andhra Pradesh
+Zamania	232329	Uttar Pradesh
+Zunhebato	798620	Nagaland
+
